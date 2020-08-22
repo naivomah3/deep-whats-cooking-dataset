@@ -20,4 +20,4 @@ Downloading the [Kaggle Recipe Ingredients Dataset](https://www.kaggle.com/kaggl
 
 ## TO-DO
 
-Extend the technique and do my first submission on Kaggle....
+Extend the pipeline given by the author and do my first submission on Kaggle.
