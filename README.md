@@ -1,7 +1,7 @@
 # Deep Learning building blocks for Tabular-like dataset 
+This is an intermediate implementation of deep learning which focuses on how to design neural networks for various data types. This implementation uses different types of data(synthetic and real-world types of data).
+The notebooks used here are totally derived from the work of [Nate](https://github.com/knathanieltucker/deep-learning-building-blocks/) on which I commented a few parts of the code for the seek of cleanliness and to make it more readable and beginner-friendly. Thanks to him for his great sharings.
 
-This is an intermediate implementation on deep learning that focuses on how to design neural networks for various data types. This implementation uses different types of data(synthetic and real world type of data).  
-The notebooks used here are totally derived from the work of [Nate](https://github.com/knathanieltucker/deep-learning-building-blocks/) on which I commented the code for the seek of cleanliness and to make it more understandable for beginners. Thanks to him for his great sharings. 
 
 ## Installing What You'll Need
 
